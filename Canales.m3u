@@ -3,11 +3,17 @@
 #EXTINF:-1 ,Amigos TV
 https://tv91.hostingnuclear.com:19360/amigostv/amigostv.m3u8
 
-#EXTINF:-1 ,Vea Canal
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsUFiEYIZ75mslXg_UoQGUpRdghrOyW4-fE5VgxQmPEr6fzeYfUlKg8zLM6c24AS0iZsIh_jMzucxZODSZYAjctaa2mm3U4OIoy6I6D2VH95n3xOOUVDC2t1uARZmAPLCOe6kfOF-rx8Fwb0wmDelb0OfzDbQ42f3R3ynUO5IKu7t4yyRVGeaydBzr3Lmz988TEtMWRZ4JSwS8seoAHrQ8WcgpY1Wq1-__b1dnyYpsfaRylA-rrzd1BIcVGL6RefdStvMaHKym7JsIl0dj9dER_-EvnBDHKWGspyuTluEpB8Zw9lAeFM0A7BvcdkNuhDOhLCKY01_ehtMVCkLjUhxsk4uOtKUqC2Bz9pNs3xCL1Nt5ftmJ3pFeCSXgdY1iMNyV5TWxIMaUH5wgAmJWtTqcNH3wYJzFcEPiDLFB1OV7Fv-e2M0KdGdruzsA7CmaKIdwNIBXDPzbprCr03RkzgM8hdMDXCbueR2cRD9hLLx3n4KPqO2xLPiNplZvMRYKMMzqlyvQIDddGzkc3xNITo8KbVn1n8mkRZA1jqlLSQ7UGb6LwZguzK3CHaCcv451heMDgl7qJZmcSSTFZ2E9mnvaA2_xQDi3052VhmbPCFgaO0etIF0s1ii-gDnIQ_Ig0pmdOQWfxDzhW9UppjQ1KecAa7VPYU0mWGQdkBtif9UAVNaPvqXiqspkxVhshuUtqZq4o650aIyxaPCfQW4p56SP21C5Myk58zDQpHGFvO47_VngU-rvfkKiN7vB-EK5V_pXDYo0HUjVbCQv6qIXujkYAvukcVqkX9uP64yza9_8BbF8x-f8C9d73V_VGy26BUFDXTS1VLyTYjdz8k_Kn1HTed6LZS-XeWbOoJRWSFr3NveuK1tcn7U9WVgJ_10i7DaoYNJcc0l-D7tMFBec-yno8BdUt4Hu75K1Kh2n026kzb8LD4XwrofhoMpvTDwB3dR1PiXTEVIAEqCXVzLWVhc3QtMTCdBQ.m3u8
+#EXTINF:-1 ,Canal 27
+https://live.appclicksgt.com:3305/live/tvcanal27live.m3u8
 
 #EXTINF:-1 ,TN 23
 https://d1dqr580c2izza.cloudfront.net/hls/canal23_480.m3u8
+
+#EXTINF:-1 ,CANAL ESQUIPULAS
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+
+#EXTINF:-1 ,INTERCABLE CHIQUIMULA
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 ,Telecom
 https://ed23ov.live.opencaster.com/knoyHDEjGHfv/index.m3u8?token=Ok3SoqwX%2Fu92NM8LLDwT0ypoPXKsK5tWx66%2Be14Hz00%3D
