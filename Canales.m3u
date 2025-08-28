@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id=""tvg-name="Amigos TV" | tvg-logo="https://i.ytimg.com/vi/bgPos8cBPC4/hqdefault.jpg" group-title="⭐️ Guatemala",Amigos TV
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 
-#EXTINF:-1 ,INTERCABLE CHIQUIMULA
+#EXTINF:-1 tvg-id=""tvg-name="INTERCABLE CHIQUIMULA" | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSinWIJQKjOtcW4hF1sLLKFyTGHotyNDj-X8w&s" group-title="⭐️ Guatemala",INTERCABLE CHIQUIMULA 
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTM3U
